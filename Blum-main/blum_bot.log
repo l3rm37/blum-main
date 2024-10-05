@@ -1,0 +1,25 @@
+
+13:49:57.30 | SUCCESS | Добавлена сессия +79831596593 @lermuid PROXY : NONE
+13:50:09.14 | INFO | Найдено сессий: 1!
+13:50:09.14 | INFO | Проверяю сессии на валидность!
+13:50:10.39 | SUCCESS | Валидных сессий: 1; Невалидных: 0
+13:50:32.65 | ERROR | login | Thread 0 | 1 | 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://user-domain.blum.codes/api/v1/auth/provider/PROVIDER_TELEGRAM_MINI_APP')
+13:50:45.02 | INFO | Найдено сессий: 1!
+13:50:45.03 | INFO | Проверяю сессии на валидность!
+13:50:46.38 | SUCCESS | Валидных сессий: 1; Невалидных: 0
+13:51:11.62 | ERROR | login | Thread 0 | 1 | 0, message='Attempt to decode JSON with unexpected mimetype: text/html; charset=utf-8', url=URL('https://user-domain.blum.codes/api/v1/auth/provider/PROVIDER_TELEGRAM_MINI_APP')
+13:51:20.50 | INFO | Найдено сессий: 1!
+13:51:20.51 | INFO | Проверяю сессии на валидность!
+13:51:21.97 | SUCCESS | Валидных сессий: 1; Невалидных: 0
+13:51:34.53 | INFO | Найдено сессий: 0!
+13:51:34.53 | INFO | Проверяю сессии на валидность!
+13:51:34.53 | SUCCESS | Валидных сессий: 0; Невалидных: 0
+13:52:26.27 | SUCCESS | Добавлена сессия +79831596593 @lermuid PROXY : NONE
+13:52:36.12 | SUCCESS | Добавлена сессия +79831596593 @lermuid PROXY : NONE
+13:52:45.12 | INFO | Найдено сессий: 1!
+13:52:45.12 | INFO | Проверяю сессии на валидность!
+13:52:46.35 | SUCCESS | Валидных сессий: 1; Невалидных: 0
+13:52:59.83 | INFO | main | Thread 0 | 1 | Start! | PROXY : None
+13:55:21.21 | INFO | main | Thread 0 | 1 | Have 118 diamonds!
+13:55:21.37 | INFO | game | Thread 0 | 1 | Start DROP GAME!
+13:55:52.07 | SUCCESS | game | Thread 0 | 1 | Claimed DROP GAME ! Claimed: 122
